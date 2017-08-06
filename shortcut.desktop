@@ -1,0 +1,12 @@
+[Desktop Entry]
+
+Name=YOUR_SCRIPT_NAME
+Exec=/home/USER/bin/YOUR_SCRIPT_NAME %F
+
+Comment="Execute this script"
+GenericName=Script
+Type=Application
+NoDisplay=true
+Terminal=false
+Icon=terminal
+
